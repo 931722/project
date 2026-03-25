@@ -1,0 +1,1 @@
+savedcmd_/home/xilinx/mldsa_socket/driver/Module.symvers :=  scripts/mod/modpost -M -m       -o /home/xilinx/mldsa_socket/driver/Module.symvers -T /home/xilinx/mldsa_socket/driver/modules.order -i Module.symvers -e 

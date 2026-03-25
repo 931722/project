@@ -1,0 +1,1 @@
+savedcmd_/home/xilinx/mldsa_socket/driver/driver.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/xilinx/mldsa_socket/driver/driver.ko /home/xilinx/mldsa_socket/driver/driver.o /home/xilinx/mldsa_socket/driver/driver.mod.o;  true
